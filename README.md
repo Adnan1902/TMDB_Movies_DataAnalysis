@@ -47,7 +47,7 @@ scikit-learn>=0.24.0
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/tmdb-movie-analysis.git
+git clone https://github.com/Adnan1902/TMDB_Movies_DataAnalysis.git
 cd tmdb-movie-analysis
 ```
 
